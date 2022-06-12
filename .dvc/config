@@ -1,0 +1,7 @@
+[core]
+    autostage = true
+    remote = olist
+['remote "olist"']
+    url = gdrive://1Frj5E9L1u0DZj9CqsZN7uBcEYzx9-bGX/olist
+['remote "nyc-taxi-fare"']
+    url = gdrive://1Frj5E9L1u0DZj9CqsZN7uBcEYzx9-bGX/nyc-taxifare-data

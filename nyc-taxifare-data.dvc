@@ -1,0 +1,5 @@
+outs:
+- md5: f90eef365a432b7f67fb54e358c8c553.dir
+  size: 5698505075
+  nfiles: 4
+  path: nyc-taxifare-data
